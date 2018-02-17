@@ -1,0 +1,7 @@
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\SumofNumbers\obj\Debug\SumofNumbers.csprojResolveAssemblyReference.cache
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\SumofNumbers\obj\Debug\SumofNumbers.csproj.CoreCompileInputs.cache
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\SumofNumbers\bin\Debug\SumofNumbers.exe.config
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\SumofNumbers\bin\Debug\SumofNumbers.exe
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\SumofNumbers\bin\Debug\SumofNumbers.pdb
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\SumofNumbers\obj\Debug\SumofNumbers.exe
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\SumofNumbers\obj\Debug\SumofNumbers.pdb

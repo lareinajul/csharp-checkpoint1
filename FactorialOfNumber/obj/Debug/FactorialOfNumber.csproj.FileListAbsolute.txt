@@ -1,0 +1,6 @@
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe.config
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\FactorialOfNumber\bin\Debug\FactorialOfNumber.pdb
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\FactorialOfNumber\obj\Debug\FactorialOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\FactorialOfNumber\obj\Debug\FactorialOfNumber.exe
+C:\Users\JULIE\Desktop\SACA\C#\Checkpoint1\FactorialOfNumber\obj\Debug\FactorialOfNumber.pdb
